@@ -1,7 +1,7 @@
 # imageClassification
 my first image classification.
 
-# Class
+# Classes
 - Buku Paket PBO (Pemrograman Berorientasi Objek)
 - Buku Tulis
 - Absen Kelas
