@@ -7,6 +7,6 @@ my first image classification.
 - Absen Kelas
 
 # Tools
-- 😃 model created by [Teachablemachine](https://teachablemachine.withgoogle.com/)
+- 😃 [Teachablemachine](https://teachablemachine.withgoogle.com/)
 - 🌈 [p5js](https://p5js.org/)
 - 💻 [ml5js](https://ml5js.org/)
